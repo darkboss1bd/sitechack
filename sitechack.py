@@ -2,7 +2,7 @@
 """
 SITECHACK Security Scanner
 Developer: DARKBOSS1BD
-Owner: BANGLADESH CYBER SQUAD
+Owner: BANGLADESH CYBER DARK TEAM
 """
 
 import os
